@@ -10,6 +10,6 @@ Un bot echo con python y la libreria selenium.
 - Subir la imagen que se quiera agregar (Pendiente) 
 -Publicar. 
 # Anotaciones
--El codigo tiene unos sleep agregados, algunos por la velocidad de internet (aunque se podria evitar usarlos).
--Al codigo le falta optimizacion.
--Cualquier comentario/mejora sera bien resivido, siempre que este respete a mi o a otro usuario.
+- El codigo tiene unos sleep agregados, algunos por la velocidad de internet (aunque se podria evitar usarlos).
+- Al codigo le falta optimizacion.
+- Cualquier comentario/mejora sera bien resivido, siempre que este respete a mi o a otro usuario.
