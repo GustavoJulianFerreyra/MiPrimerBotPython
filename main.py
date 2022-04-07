@@ -12,6 +12,7 @@ def main():
     botTelegram()
 def botTelegram():
     direccionChrome
+    #Futura Interaccion con Telegram 
     publicFacebook()
 def publicFacebook():
     try:
